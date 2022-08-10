@@ -1,0 +1,3 @@
+pyinstaller --clean linkedin-automation-exe.spec
+
+necessário ter instalado o pyinstaller ( pip instasll pyinstaller)

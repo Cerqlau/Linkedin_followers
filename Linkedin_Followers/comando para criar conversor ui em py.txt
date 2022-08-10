@@ -1,0 +1,5 @@
+pyuic5 -x untitled.ui -o principal.py
+pyrcc5 -o imagens_rc.py imagens.qrc
+
+
+necessário ter instalado as dependências pyuic5 ( pip install pyuic5-tools) e pyrcc5 (pip install pyrcc5)

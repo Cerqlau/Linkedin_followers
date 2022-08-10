@@ -1,0 +1,12 @@
+pyuic5-tool
+PyQt5
+colorama
+datetime
+configparser
+webdriver-manager
+selenium
+pyinstaller
+getmac
+pymongo
+dnspython
+cryptography

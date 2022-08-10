@@ -1,0 +1,1 @@
+pyi-makespec main.py --onefile --icon=icon.ico --add-binary "driver\geckodriver.exe;driver\" --add-data "example.json;." --add-data "example.ini;." --add-data "followed.json;." --add-data "unfollowed.json;." --name linkedin-automation-exe
