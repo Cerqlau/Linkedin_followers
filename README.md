@@ -1,6 +1,6 @@
 # Linkedin Followers
 
-Este projeto foi desenvolvido em Python para efetuar o gerenciamento e expansão da rede Linkedin, possui gerenciador de licensas através do banco de dados Mongo DB. Possibilita efetuar a programação de solcitação e exclusão de solicitação de pessoas em períodos programados. A ferramenta faz uso do Selenium e Mozil webdriver para que se possa efetuar a manipulação dos navegador.
+Este projeto foi desenvolvido em Python para efetuar o gerenciamento e expansão da rede Linkedin, possui gerenciador de licensas através do banco de dados Mongo DB. Possibilita efetuar a programação de solcitação e exclusão de solicitação de pessoas em períodos programados. A ferramenta faz uso do Selenium e Mozila webdriver para que se possa efetuar a manipulação dos navegador.
 O projeto conta com interface para usuário gerado do QT Designer e utiliza a biblioteca PyQT5 para que a UI se torne responsiva. 
 
 ## 🚀 Começando
