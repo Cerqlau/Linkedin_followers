@@ -30,7 +30,7 @@ Será necessário a criação de uma conta de usuário. Efetuar criação de ban
 
 3- Crie o link de para conexão com o MongoDB conforme a versão de utilização
 
-
+![mongodb](https://user-images.githubusercontent.com/87389666/184180370-bbd814fe-6c4a-422c-9607-85a20c34030d.JPG)
 
 4- Utilizar o arquivo "client_connection.py" para inserir os dados para acesso ao banco de dados
 
