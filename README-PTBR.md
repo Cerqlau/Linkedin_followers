@@ -23,7 +23,7 @@ Será necessário a criação de uma conta de usuário. Efetuar criação de ban
 
 2- Efetuar a criação de arquivos JSON para armazenamento dos dados EX: 'clients', 'licensa'
 
-2.2- Como exemplo poderá ser feito o upload dos arquivos "id_disponível.json" para 'clients' e 'licensa.json' para 'licensa'
+ 2.2- Como exemplo poderá ser feito o upload dos arquivos "id_disponível.json" para 'clients' e 'licensa.json' para 'licensa'
 
 
 3- Crie o link de para conexão com o MongoDB conforme a versão de utilização
