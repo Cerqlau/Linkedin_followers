@@ -19,8 +19,10 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 CONEXÃO COM O MONGODB
 
 Será necessário a criação de uma conta de usuário. Efetuar criação de banco de dados para verficação de MACADRESS e LICENSAS distribuidas;
-1- Efetuar a criação de um Banco de dados. EX:  "myFirstDatabase";
-2- Efetuar a criação de arquivos JSON para armazenamento dos dados EX: 'clients', 'licensa';
+1- Efetuar a criação de um Banco de dados. EX:  "myFirstDatabase"
+
+2- Efetuar a criação de arquivos JSON para armazenamento dos dados EX: 'clients', 'licensa'
+
 2.2- Como exemplo poderá ser feito o upload dos arquivos "id_disponível.json" para 'clients' e 'licensa.json' para 'licensa'
 
 
