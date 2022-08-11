@@ -25,12 +25,12 @@ Será necessário a criação de uma conta de usuário. Efetuar criação de ban
 
  2.2- Como exemplo poderá ser feito o upload dos arquivos "id_disponível.json" para 'clients' e 'licensa.json' para 'licensa'
  
-<div align="center">
-<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://user-images.githubusercontent.com/87389666/184179270-a44ce858-0817-44b6-aa42-745cbf97cd43.JPG)" width="700px" />
-</div>
+![clientes](https://user-images.githubusercontent.com/87389666/184180122-eb733ac1-b1a6-4c00-8c27-63bb938d42af.JPG)
 
 
 3- Crie o link de para conexão com o MongoDB conforme a versão de utilização
+
+
 
 4- Utilizar o arquivo "client_connection.py" para inserir os dados para acesso ao banco de dados
 
