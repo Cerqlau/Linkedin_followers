@@ -70,8 +70,9 @@ Nota: O campo "headless" é responsável por mostrar a manipulação do navegado
 
 O código executa um processo de comparação entre a licensa no arquivo o código no servidor. A fim de adicionar mais segurança na verificação do usuário, existe a captura do MACadress para cada licensa no primeiro uso. O cruzamento e verificação destas informações permite a utilização do programa. 
 
-
 A GUI é interativa e possui as opções de adicionar perfis baseados nas sugestões enviadas pela própria rede do Linkedin. Também é possivel remover solicitações antigas, pois o código mantém uma lista atualizada com as solicitações enviadas ("followed.json") e removidas ("unfollowed.json")
+
+![GUI](https://user-images.githubusercontent.com/87389666/184182110-f88ad88a-17a5-44f9-845f-25d72140cef0.JPG)
 
 "followed.json"
 ```
@@ -125,8 +126,10 @@ pyinstaller --clean linkedin-automation-exe.spec
 ## 📦 Desenvolvimento
 
 Lauro Cerqueira
-* [LinkedIn:](https://www.linkedin.com/in/lauro-cerqueira-70473568/)
-* [Instagram:](laurorcerqueira)
+
+LinkedIn: https://www.linkedin.com/in/lauro-cerqueira-70473568/ 
+
+Instagram: @laurorcerqueira
 
 ## 🛠️ Construído com
 
