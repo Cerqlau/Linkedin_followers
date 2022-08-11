@@ -127,7 +127,7 @@ Instagram : laurorcerqueira
 * [Selenium](https://www.selenium.dev/documentation/webdriver/)
 * [Python 3.8](https://www.python.org/downloads/release/python-380/)
 * [Gecko Webdriver](https://github.com/mozilla/geckodriver/releases) 
-* [Mongo DB] (https://www.mongodb.com/)
+* [Mongo DB](https://www.mongodb.com/)
 
 
 ## 📄 Licença
