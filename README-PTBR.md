@@ -119,8 +119,8 @@ pyinstaller --clean linkedin-automation-exe.spec
 ## 📦 Desenvolvimento
 
 Lauro Cerqueira
-LinkdIn: https://www.linkedin.com/in/lauro-cerqueira-70473568/
-Instagram : laurorcerqueira
+* [LinkedIn:](https://www.linkedin.com/in/lauro-cerqueira-70473568/)
+* [Instagram:](laurorcerqueira)
 
 ## 🛠️ Construído com
 
